@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/wakabibrian/HTML-and-CSS-Course/compare/v1.1.0...v1.2.0) (2024-12-23)
+
+
+### Features
+
+* Add Text Elements ([f6fd4da](https://github.com/wakabibrian/HTML-and-CSS-Course/commit/f6fd4daec09b288c0bf9a983c8cc88f99afb0236))
+
 ## [1.1.0](https://github.com/wakabibrian/HTML-and-CSS-Course/compare/v1.0.3...v1.1.0) (2024-12-23)
 
 
