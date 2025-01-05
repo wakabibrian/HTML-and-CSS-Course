@@ -73,7 +73,20 @@ aside {
   background-color: #f7f7f7;
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
+}
 
-  border-left: 5px solid #1098ad;
-  border-right: 5px solid #1098ad;
+/* .first-li {
+  font-weight: bold;
+} */
+
+li:first-child {
+  font-weight: bold;
+}
+
+li:last-child {
+  font-style: italic;
+}
+
+li:nth-child(even) {
+  /* color: red; */
 }
