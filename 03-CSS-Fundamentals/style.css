@@ -90,3 +90,30 @@ li:last-child {
 li:nth-child(even) {
   /* color: red; */
 }
+
+/* Misconception: This wont work */
+article p:first-child {
+  color: red;
+}
+
+/* Styling Links */
+/* :link peudo class targets actual links not a without the href attribute */
+a:link {
+  color: #1098ad;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1098ad;
+}
+
+a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline orangered;
+}
+
+a:active {
+  background-color: black;
+  font-style: italic;
+}
